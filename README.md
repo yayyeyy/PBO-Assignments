@@ -1,7 +1,3 @@
-Yayy's Object-Oriented Programming Assignments
-
-This repository contains my assignments for the Object-Oriented Programming course.
-
 Assignments:
 
 1. Array and ArrayList
