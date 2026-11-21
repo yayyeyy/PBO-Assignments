@@ -31,3 +31,4 @@ This assignment contains a simple Java Swing application called Song Selection A
 - **Layout Managers:** Uses BorderLayout and GridLayout to arrange components within the application.
 
 - **Event Listener:** Uses ActionListener and the actionPerformed() method to handle button clicks and display the selected artist and song title.
+<img width="366" height="161" alt="image" src="https://github.com/user-attachments/assets/a5b9badd-63c5-49d9-803e-0c1fd8ff557c" />
